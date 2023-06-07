@@ -1,0 +1,26 @@
+#logo1 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  /* left: calc(50% - 100px / 2 - 841px);
+  top: calc(50% - 100px / 2 - 2314px); */
+  border: 1px solid #e6e63f;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  border-radius: 10px;
+}
+.logo {
+  padding-left: 9%;
+}
+body {
+  width: 100%;
+  height: 100%;
+}
+html {
+  width: 100%;
+  height: 100%;
+}
+Outlet {
+  width: 100%;
+  height: 100%;
+}

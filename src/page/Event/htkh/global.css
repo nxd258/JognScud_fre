@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-sen: Sen;
+  --font-roboto: Roboto;
+  --font-segoe-ui: "Segoe UI";
+
+  /* font sizes */
+  --font-size-3xl: 22px;
+  --font-size-11xl: 30px;
+  --font-size-xl: 20px;
+  --font-size-base-8: 16.8px;
+  --font-size-lgi-6: 19.6px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --color-gray: rgba(255, 255, 255, 0);
+  --color-navajowhite: #ffdda9;
+  --color-mediumorchid-100: #cc35bd;
+  --color-mediumorchid-200: #b52fc0;
+  --color-mediumorchid-300: #e201be;
+  --color-gainsboro-100: #e3e4e6;
+  --color-gainsboro-200: rgba(227, 228, 230, 0.6);
+  --color-palegoldenrod-100: #ecffc3;
+  --color-palegoldenrod-200: #d6ffad;
+  --color-lightskyblue: #a1c0ff;
+  --color-bisque: #efdcc0;
+  --color-white: #fff;
+  --color-darkslategray-100: #40506c;
+  --color-darkslategray-200: #005651;
+  --color-darkslategray-300: #172b4d;
+  --color-lightsteelblue-100: #b6ceff;
+  --color-sandybrown: #ffa96b;
+  --color-palegreen: #a4fc6f;
+  --color-cornflowerblue: #00a0ff;
+  --color-paleturquoise-100: #c9fff9;
+  --color-paleturquoise-200: #c6fff8;
+  --color-paleturquoise-300: #a6faff;
+  --color-fuchsia: #cc00ff;
+  --color-coral: #ff7439;
+  --color-red: #ff3232;
+  --color-khaki: #fffa7b;
+  --color-wheat: #ffebc3;
+  --color-pink: #ffd0d0;
+  --color-crimson: #ff375b;
+  --color-turquoise: #71efe0;
+  --color-steelblue: #4e97c2;
+  --color-mediumslateblue-100: #4959e8;
+  --color-mediumslateblue-200: #0065ff;
+  --color-mediumslateblue-300: #2d4cee;
+  --color-black: #000;
+  --color-blue: #0812ff;
+  --color-lightgoldenrodyellow: #c8f3c4;
+
+  /* Gaps */
+  --gap-3xs: 10px;
+  --gap-6xs-3: 6.3px;
+  --gap-7xs: 6px;
+  --gap-6xs-1: 6.1px;
+  --gap-2xl-9: 21.9px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-2xl-8: 21.8px;
+  --padding-sm: 14px;
+  --padding-lg-3: 18.3px;
+  --padding-mid: 17px;
+  --padding-base: 16px;
+  --padding-lg: 18px;
+  --padding-2xl: 21px;
+  --padding-xl: 20px;
+  --padding-10xl-1: 29.1px;
+
+  /* border radiuses */
+  --br-8xs: 5px;
+  --br-3xs: 10px;
+  --br-10xs: 3px;
+}
